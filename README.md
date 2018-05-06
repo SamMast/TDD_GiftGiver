@@ -1,6 +1,6 @@
 # Purpose 
 
-* I created this app to learn/practice TDD (Test Driven Development)
+* I created this app to learn/practice TDD with React(Test Driven Development)
 
 - Tests written with Jest
 
@@ -13,6 +13,6 @@
 
 ### Testing:
 
--Run testing with Jest
+- Running testing with Jest
 
 ![Image 1](testing.png)
